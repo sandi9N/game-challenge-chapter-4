@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Challenge Chapter4</string>
+    <string name="kertas">Kertas</string>
+    <string name="gunting">Gunting</string>
+    <string name="batu">Batu</string>
+    <string name="pemain_1">Pemain 1</string>
+    <string name="com">COM</string>
+    <string name="refresh">refresh</string>
+    <string name="vs">VS</string>
+    <string name="pemain_menang">Pemain 1 \n MENANG!</string>
+    <string name="pemain2_menang">Pemain 2 \n MENANG!</string>
+    <string name="seri">Seri</string>
+</resources>
